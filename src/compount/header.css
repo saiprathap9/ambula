@@ -1,0 +1,43 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around ;
+    background-color: blue;
+}
+.navbar{
+   
+    list-style: none;
+    color: whitesmoke;
+}
+.ppp Link{
+    text-decoration: none;
+
+}
+.navbar li a {
+    text-decoration: none;
+    color: white;
+  }
+
+/* header.css */
+
+/* .navbar {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    background-color: #333;
+  }
+  
+  .navbar li {
+    margin: 0 10px;
+  }
+  
+  .navbar li a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  
+  .navbar {
+    direction: rtl;
+  }
+   */
